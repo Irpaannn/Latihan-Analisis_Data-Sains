@@ -15,3 +15,11 @@ Mulai dari proses pembersihan data, identifikasi data anomali, perhitungan penda
 Analisis data transaksi penjualan menggunakan Python dan library Pandas. Analisis dilakukan untuk mengolah dataset transaksi, membersihkan data, melakukan perhitungan omzet, menyaring transaksi, mengurutkan data, serta membuat laporan agregasi berdasarkan kode gerai.
 
 Tujuannya adalah memahami proses pengolahan dan analisis data menggunakan Pandas, sekaligus memperoleh informasi mengenai kinerja transaksi dan omzet dari setiap gerai.
+
+
+# [Tugas 3](tugas-3) - Visualisasi Data
+
+Visualisasi data adalah proses penyajian data dalam bentuk grafik, diagram, atau gambar agar informasi mudah dipahami, dibaca, dan dianalisis.
+Visualisai data memiliki tujuan untuk mempermudah pemahaman data, mengetahui pola dan tren, membandingkan antar nilai kategori, menemukan informasi penting, serta membantu proses pengambilan keputusan.
+
+Tugas visualisasi data menggunakan dataset [Tahun 2025](tugas-1/hasil/data_transaksi_2025.csv).
